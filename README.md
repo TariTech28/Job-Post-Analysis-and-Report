@@ -17,4 +17,4 @@ The Jupyter notebook contains the detailed code, analysis, and findings from our
 
 Thank you for exploring our project! We hope you find the insights valuable and informative.
 
-[Include relevant tags and links to social media or personal profiles if desired]
+
