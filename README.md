@@ -13,6 +13,8 @@ Our methodology involved several key steps:
 Jupyter Notebook:
 The Jupyter notebook contains the detailed code, analysis, and findings from our project. Explore the slides to delve deeper into our methodology, insights, and recommendations.
 
+Teammates: @NdibeIfeoma @Casy4impact
+
 
 
 Thank you for exploring our project! We hope you find the insights valuable and informative.
